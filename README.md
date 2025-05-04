@@ -28,5 +28,5 @@ A simple web application to check current weather in any city using the [OpenWea
 ### 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/ashitajayaram/weather-app.git
 cd weather-app
